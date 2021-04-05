@@ -1,0 +1,30 @@
+.container{
+    background-color: #B3E5FC;
+    height: 124px;
+    padding: 30px;
+
+}
+
+h1{
+    font-size: 52px;
+    background-position-y: bottom;
+}
+
+.option{
+    background-color: cadetblue;
+}
+
+.image{
+    width: 100%;
+}
+
+.text{
+    position: absolute;
+    bottom: -26px;
+    left: 139px;
+    font-size: 52px;
+    background: #aea1a1;
+    border-radius: 15px;
+    cursor: pointer;
+    padding: 13px;
+}
